@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -52,7 +51,7 @@ body  {
 	--evelope-rotate-delay: calc(var(--duration) / 1);
 	--evelope-rotate-delay-hover: 0ms;
 
-	--letter-clr-bg: #fff;
+	--letter-clr-bg: #FFE6C9;
 	--letter-clr-text: #c0392b;
 	--letter-font-size: 1rem;
 	--letter-delay: 0ms;
@@ -265,27 +264,24 @@ body  {
 			</div>
 
 			<div class="address">
-				<p><span>To:</span> <span>My Love</span></p>
-				<p><span>From:</span> <span>Your Favorite Person</span></p>
+				<p><span>Para:</span> <span>Quien lo lee</span></p>
+				<p><span>De:</span> <span>Ena</span></p>
 			</div>
 
 		</div>
 
 		<div class="envelope-back">
+
 			<div class="top-fold"></div>
 
 			<div class="letter">
 
 				
-				<img src="https://img.freepik.com/vector-premium/pulgar-dedos-imprimir-marca-huella-dactilar-amor-corazon_53500-1839.jpg" alt="love1" class="custom-image">
-			
-				<p>Cuanto más tiempo estoy coniiiitigo <span class="highlight">más te amo!</span></p>
-			
-				
-				<img src="https://img.freepik.com/fotos-premium/imagen-flores-amarillas-palabras-sol-citadas-ella_1191871-60686.jpg" alt="love2" class="custom-image2">
+				<img src="mi_imagen.png" width="550" height="300">
+
 			
 			</div>
-			
+		
 		</div>
 	</div>
 
